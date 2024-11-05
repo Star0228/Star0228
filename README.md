@@ -26,4 +26,13 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Star0228&theme=tokyonight" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Star0228)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Star0228}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
+
+<p align="center"> 
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star0228&show_icons=true&theme=tokyonight" />
+</p>
+
+[![Star0228's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Star0228&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+

@@ -22,7 +22,7 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 <p align="center"> 
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Star0228&show_icons=true&theme=tokyonight" />
 </p>
-<p>
+<p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Star0228&theme=tokyonight" />
 </p>
 

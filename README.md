@@ -14,7 +14,7 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 
 ## 🔗 Some Links
 <div align="center">
-<a href="https://star0228.github.io/"><img src="https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white"></a> <a href="https://github.com/Star0228/"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"> <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white"></a> <a href="https://x.com/_Star0228"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=Twitter&logoColor=white">
+<a href="https://star0228.github.io/"><img src="https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white"></a> <a href="https://github.com/Star0228/"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"> <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white"></a> <a href="https://x.com/_Star0228"><img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white">
 </div>
 
 ## 📈 Stats

@@ -30,11 +30,7 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly      2 hrs 43 mins   ██████████████████████▒░░   89.60 %
-C++           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Markdown      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Other         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Typst         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Assembly   2 hrs 43 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

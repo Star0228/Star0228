@@ -31,8 +31,7 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   4 mins          ██████████████░░░░░░░░░░░   55.99 %
-YAML   3 mins          ███████████░░░░░░░░░░░░░░   44.01 %
+YAML   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

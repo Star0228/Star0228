@@ -31,7 +31,11 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             42 mins         ██████████████▓░░░░░░░░░░   58.58 %
+SQL              17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+XML              5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+JSON             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Markdown         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->

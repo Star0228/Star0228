@@ -31,11 +31,11 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 <!--START_SECTION:waka-->
 
 ```txt
-Java             42 mins         ██████████████▓░░░░░░░░░░   58.58 %
-SQL              17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.63 %
-XML              5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-JSON             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Markdown         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+TypeScript       3 hrs 25 mins   ██████████████░░░░░░░░░░░   55.47 %
+Java             1 hr 28 mins    ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+Markdown         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+SQL              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JSON             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->

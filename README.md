@@ -10,7 +10,7 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 - 🔭 I’m currently working on **academic study**.
 - 🌱 I’m currently learning in @ZJU-Turing.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Star0228?tab=repositories).
-- ⚡ Fun fact: Half marathon PB-2:10:17
+- ⚡ Fun fact: Half marathon PB-1:47:17
 
 ## 🔗 Some Links
 <div align="center">

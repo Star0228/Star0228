@@ -31,11 +31,11 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          15 hrs 58 mins  ███████████████░░░░░░░░░░   60.47 %
-Python       5 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-Markdown     2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-JSON         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Other        29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+TeX            14 hrs 14 mins  ███████████████░░░░░░░░░░   60.13 %
+Python         5 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+Markdown       1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+JSON           1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Other          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->

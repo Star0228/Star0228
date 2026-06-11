@@ -31,11 +31,9 @@ Hi, I'm Star0228. I'm currently an undergraduate student at Turing Class, Zhejia
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   10 mins         ███████████▒░░░░░░░░░░░░░   45.92 %
-Markdown     7 mins          ████████▒░░░░░░░░░░░░░░░░   33.85 %
-Python       3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Text         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Markdown   7 mins          ███████████████▓░░░░░░░░░   63.01 %
+Python     3 mins          ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+Text       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 ```
 
 <!--END_SECTION:waka-->
